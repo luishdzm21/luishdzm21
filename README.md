@@ -1,8 +1,5 @@
 # About me
 
-
-**luishdzm21/luishdzm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 💻 Software developer with fun ideas
 - 💼 Seeking a professional role in Software Development
